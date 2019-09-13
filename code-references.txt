@@ -1,0 +1,7 @@
+The following sources are also present in the jupyter notebook, and are located near where they are used:
+
+https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/
+https://keras.io/scikit-learn-api/
+https://stackoverflow.com/questions/44826458/gridsearch-in-keras-tensorflow-resulting-in-resource-exhausted
+https://stackoverflow.com/questions/6963035/pyplot-axes-labels-for-subplots
+https://stackoverflow.com/questions/9834452/how-do-i-make-a-single-legend-for-many-subplots-with-matplotlib
